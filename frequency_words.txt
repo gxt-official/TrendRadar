@@ -60,11 +60,6 @@ openai
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
@@ -81,14 +76,3 @@ ai
 科技
 
 核能
-
-中国
-美国
-日本
-韩国
-越南
-朝鲜
-乌克兰
-俄罗斯
-以色列
-伊朗
